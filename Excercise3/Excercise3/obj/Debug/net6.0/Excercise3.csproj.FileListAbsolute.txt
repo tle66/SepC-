@@ -1,0 +1,15 @@
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\Excercise3.exe
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\Excercise3.deps.json
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\Excercise3.runtimeconfig.json
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\Excercise3.dll
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\ref\Excercise3.dll
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\bin\Debug\net6.0\Excercise3.pdb
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.AssemblyInfoInputs.cache
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.AssemblyInfo.cs
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.csproj.CoreCompileInputs.cache
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.dll
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\ref\Excercise3.dll
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.pdb
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.genruntimeconfig.cache
+C:\Users\lhthi\Desktop\Work Space\SEP-APP1\Excercise3\Excercise3\obj\Debug\net6.0\Excercise3.csproj.AssemblyReference.cache
